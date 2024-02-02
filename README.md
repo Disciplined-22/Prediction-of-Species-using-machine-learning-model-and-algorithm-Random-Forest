@@ -11,6 +11,6 @@ Imagine making a big decision by asking advice from many friends. Random Forest 
 
 ## Conclusion
 
-The accuracy of this Random Forest model is an impressive 98% on the Iris dataset! 🌿🎉 Check out the [this file](https://github.com/Disciplined-22/Prediction-of-Species-using-machine-learning-model-and-algorithm-Random-Forest/blob/main/Random_Forest.ipynb) for more details.
+The accuracy of this Random Forest model is an impressive 98% on the Iris dataset! 🌿🎉. For more information and to check out the code click on [Random_Forest.ipynb file.](https://github.com/Disciplined-22/Prediction-of-Species-using-machine-learning-model-and-algorithm-Random-Forest/blob/main/Random_Forest.ipynb)
 
-#MachineLearning #RandomForest #Accuracy
+
