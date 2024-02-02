@@ -8,3 +8,7 @@ Imagine making a big decision by asking advice from many friends. Random Forest 
 
 ## Tree 2:
 ![Screenshot (112)](https://github.com/Disciplined-22/Prediction-of-Species-using-machine-learning-model-and-algorithm-Random-Forest/assets/129745308/09c0e93a-54b2-4ba4-85e6-2230ec78b428)
+
+## Conclusion
+
+The accuracy of this model is 98% on the data set of Iris. Kinldy pleas  click on #()
